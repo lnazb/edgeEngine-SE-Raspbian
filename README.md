@@ -2,13 +2,13 @@
 edgeEngine for Raspbian Platform 
 
 # Installation Guide
-1. Download latest release for Rasbian [HERE](https://github.com/edgeEngine/egdeengine-raspbian/releases)
+1. Download latest release for Raspbian [HERE](https://github.com/edgeEngine/egdeengine-raspbian/releases)
 2. Create new directory
 3. Move package to newly created directory 
 4. Open terminal and navigate to the newly created directory that now has the downloaded .tar file
 5. *Untar package (ex:)
 ```
-tar xvf edgeEngine-rasbian-setup-v2.3.1.tar
+tar xvf edgeEngine-raspbian-setup-v2.3.1.tar
 ```
 6. Run start script to start edgeEngine
 ```
