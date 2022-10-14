@@ -1,4 +1,5 @@
-# egdeengine-raspbian
+#  edgeEngine-SE-Raspbian
+
 edgeEngine for Raspbian Platform 
 
 # Installation Guide
